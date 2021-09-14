@@ -1,0 +1,1 @@
+to run the website navigate to index.html and double click.
